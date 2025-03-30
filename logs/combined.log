@@ -1,0 +1,6 @@
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Operation: exponentiate, num1: 10, num2: 2, result: 100","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, num1: 10, num2: undefined, result: 3.1622776601683795","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, num1: 100, num2: undefined, result: 10","service":"calculator-microservice"}
+{"level":"info","message":"Operation: modulo, num1: 10, num2: 2, result: 0","service":"calculator-microservice"}
+{"level":"error","message":"Square root of a negative number error","service":"calculator-microservice"}
